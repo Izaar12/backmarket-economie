@@ -1,4 +1,4 @@
-### Groupe 17
+# Groupe 17
 
 
 ## Membres:
@@ -12,8 +12,8 @@
   ### - (à compléter)
 
 
-# Entreprise:
+### Entreprise:
   Back Market -> Site Web présentant l'entreprise Back Market par ses aspects économiques et écologiques.
 
-# PROJET ETUDIANT 1
+### PROJET ETUDIANT 1
   - IUT NFC filière Informatique 
