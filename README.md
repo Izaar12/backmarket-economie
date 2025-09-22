@@ -9,7 +9,7 @@
 
 
 ## E-MAIL REFERENT:
-  ### - (à compléter)
+  ### julien.py02@edu.univ-fcomte.fr
 
 
 ### Entreprise:
