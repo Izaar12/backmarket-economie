@@ -12,10 +12,7 @@ https://irogui.github.io/backmarket-economie/
 
 ## E-MAIL REFERENT:
   ### julien.py02@edu.univ-fcomte.fr
+  
 
-
-### Entreprise:
-  Back Market -> Site Web présentant l'entreprise Back Market par ses aspects économiques et écologiques.
-
-### PROJET ETUDIANT 1
-  - IUT NFC filière Informatique 
+## PROJET ETUDIANT 1
+  - En tant qu'étudiants à l'IUT NFC en filière Informatique, nous présentons un projet de site web visant à montrer sous les aspects économiques et écologiques l'entreprise Back Market.
