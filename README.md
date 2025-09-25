@@ -1,6 +1,6 @@
 # Groupe 17
 
-## Sujet: Back Market:
+## Sujet: Back Market
 https://irogui.github.io/backmarket-economie/
 
 ## Membres:
