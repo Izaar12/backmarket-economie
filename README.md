@@ -15,4 +15,4 @@ https://irogui.github.io/backmarket-economie/
   
 
 ## PROJET ETUDIANT 1
-  - En tant qu'étudiants à l'IUT NFC en filière Informatique, nous vous présentons un projet de site web visant à montrer sous les aspects économiques et écologiques l'entreprise Back Market.
+  - En tant qu'étudiants à l'IUT NFC en filière Informatique, nous vous présentons un projet de site web visant à montrer sous les aspects économiques et écologiques de l'entreprise Back Market.
