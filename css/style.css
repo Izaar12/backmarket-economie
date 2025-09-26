@@ -11,8 +11,6 @@ body {
 }
 
 .logo {
-    position:fixed;
-
     width: 200px;
     height: auto;
 
@@ -64,7 +62,6 @@ a {
 }
 
 footer {
-    position: fixed;
     bottom: 0px;
 
     font-weight: bold;
@@ -72,3 +69,4 @@ footer {
 
     background-color: gray;    
 }
+
